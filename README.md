@@ -48,5 +48,4 @@ You have 15 minutes to discuss and 5 minutes to prepare a 2-minute presentation.
 
 
 - **Unused human potential**
-
-*Manufactoruing:* Not listening to factory workers to improve process
+  *Manufactoruing:* Not listening to factory workers to improve process
