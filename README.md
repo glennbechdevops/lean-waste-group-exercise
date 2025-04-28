@@ -43,7 +43,10 @@ You have 15 minutes to discuss and 5 minutes to prepare a 2-minute presentation.
 - **Motion**  
   *Manufacturing:* Workers walking long distances unnecessarily.  
 
-
 - **Defects**  
   *Manufacturing:* Producing faulty products requiring rework.  
 
+
+- **Unused human potential**
+
+*Manufactoruing:* Not listening to factory workers to improve process
